@@ -1,7 +1,7 @@
 ---
 title: "Deep atlas network for efficient 3D left ventricle segmentation on echocardiography"
 collection: publications
-category: journals
+category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2020-02-17
