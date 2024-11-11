@@ -1,11 +1,9 @@
 ---
-title:"Deep atlas network for efficient 3D left ventricle segmentation
- on echocardiography"
+title:"Deep atlas network for efficient 3D left ventricle segmentation on echocardiography"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Deep atlas network for efficient 3D left ventricle segmentation
- on echocardiography.'
+excerpt: ''
 date: 2020-10-01
 venue: 'Medical Image Analysis'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
