@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Suyu Dong, et al. Deep atlas network for efficient 3D left ventricle segmentation
- on echocardiography. Medical Image Analysis. 59 (2020): 101638.(Top Journal; IF=13.8),[Citations>30]'
+ on echocardiography. Medical Image Analysis. 59 (2020): 101638.(Top Journal; IF=13.8).'
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
