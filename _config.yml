@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Suyu Dong/ Ph.D."
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "Bio.png"
   name             : "Suyu Dong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral Research Fellow in KAUST"
   location         : "Thuwal, SA"
 
   uri              : # URL
