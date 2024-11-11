@@ -1,8 +1,7 @@
-
 ---
 title: "Paper Title Number 1"
 collection: publications
-category: journal
+category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
